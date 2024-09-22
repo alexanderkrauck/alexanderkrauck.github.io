@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FSQGJNMD33.com.omnipate.app",
+        "paths": ["/callback", "*"]
+      }
+    ]
+  }
+}
